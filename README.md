@@ -7,14 +7,14 @@ Usage Instructions
 1.	Setup and Requirements:
 Install required libraries:
 
-pip install speechrecognition googletrans==4.0.0-rc1 gtts pygame
+        pip install speechrecognition googletrans==4.0.0-rc1 gtts pygame
 
 Ensure your microphone is connected and configured correctly for use.
 
 3.	Running the Program:
 Execute the script in your Python environment:
 
-python translator.py
+        python translator.py
 
 5.	Using the Application:
 Click the "Start Translation" button.
